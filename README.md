@@ -1,5 +1,5 @@
 <h3 align="center">Welcome to my world 👋🌍, I'm Khady THIAM</h1>
-<h3 align="center"> I'm a software developer and System Administrator</h3>
+<h3 align="center"> I'm a Software Developer and System Administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadylalla&label=Profile%20views&color=0e75b6&style=flat" alt="khadylalla" /> </p>
 
