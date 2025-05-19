@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khadylalla&label=Profile%20views&color=0e75b6&style=flat" alt="khadylalla" /> </p>
 
-<p align="left"> &nbsp;<a href="https://twitter.com/the_darkcode" target="blank"><img src="https://img.shields.io/twitter/follow/the_darkcode?logo=twitter&style=for-the-badge" alt="the_darkcode" /></a> </p>
+<p align="left"> &nbsp;<a href="https://twitter.com/the_darkcode" target="blank"><img src="https://img.shields.io/twitter/follow/the_darkcode?logo=twitter&style=for-the-badge" alt="khady" /></a> </p>
 
 ## 💻 Tech Stack
 
