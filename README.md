@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <h3 align="center">Welcome to my world 👋🌍, I'm Khady THIAM</h1>
 <h3 align="center">'m a DevOps Engineer and System Administrator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-thedarkcode&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-thedarkcode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khadylalla&label=Profile%20views&color=0e75b6&style=flat" alt="khadylalla" /> </p>
 
 <p align="left"> &nbsp;<a href="https://twitter.com/the_darkcode" target="blank"><img src="https://img.shields.io/twitter/follow/the_darkcode?logo=twitter&style=for-the-badge" alt="the_darkcode" /></a> </p>
 
@@ -39,9 +37,9 @@
 
 ## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aziz-thedarkcode&show_icons=true&locale=en" alt="aziz-thedarkcode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadylalla&show_icons=true&locale=en" alt="khadylalla" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aziz-thedarkcode&" alt="aziz-thedarkcode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadylalla&" alt="khadylalla" /></p>
 
 ---
 
